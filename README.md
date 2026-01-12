@@ -1,2 +1,2 @@
 # Portfolio
-This is my portfolio
+Caroline is an aspiring software engineer
