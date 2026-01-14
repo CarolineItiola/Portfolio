@@ -1,6 +1,7 @@
 # Portfolio
-Caroline is an aspiring software engineer
+Caroline is a finance and investment banking graduate building data-driven projects using python.
 
+FIRST PROJECT 
 
 Diabetes Prediction Challenge - Machine Learning Project (Python, Sci-kit-learn)
 
