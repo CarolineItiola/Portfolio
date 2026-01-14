@@ -4,15 +4,29 @@ Caroline is an aspiring software engineer
 
 Diabetes Prediction Challenge - Machine Learning Project (Python, Sci-kit-learn)
 
-Background - A mobile health clinic aims to improve patient pre-screening for diabetes 
-using basic health indicators. 
-Objective-Conduct Exploratory Data Analysis (EDA) to uncover factors influencing diabetes 
-risk. 
-Develop a classification model to predict diabetes based on attributes like BMI, 
-glucose, insulin levels, and age 
-Project Overview 
-The project uses the Pima Indians Diabetes Dataset, which contains health measurements 
-for several individuals. 
-Train a classification model (using scikit-learn) to predict diabetes status (0 = 
-negative, 1 = positive).
+Overview
+This project builds a machine learning model to predict diabetes status using basic health indicators.
 
+Dataset
+The Pima Indians Diabetes Dataset was used.
+Target variable:
+
+0 = Negative
+1 = Positive
+Methodology
+Exploratory Data Analysis (EDA)
+Data preprocessing and feature scaling
+Model training using Support Vector Classifier (SVM)
+Model evaluation using accuracy, confusion matrix, and classification report
+Features Used
+BMI
+Glucose
+Insulin
+Age
+How to Run Prediction
+Ensure the model and scaler are saved in the model/ folder
+Run:
+Results
+
+The model achieved approximately 75% test accuracy, with reasonable generalisation performance.
+python predict.py
