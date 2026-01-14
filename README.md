@@ -3,6 +3,7 @@ Caroline is an aspiring software engineer
 
 
 Diabetes Prediction Challenge - Machine Learning Project (Python, Sci-kit-learn)
+
 Background - A mobile health clinic aims to improve patient pre-screening for diabetes 
 using basic health indicators. 
 Objective-Conduct Exploratory Data Analysis (EDA) to uncover factors influencing diabetes 
